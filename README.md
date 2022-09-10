@@ -2,7 +2,7 @@
 
 Welcome! This project was built in C++ and is able to maniulate images in all sorts of ways. Below is a list of all the different operations that the program can perform on an image. 
 
--> Rotate Clockwise
+* Rotate Clockwise
 -> Rotate CounterClockwise
 -> Flip on the X-axis 
 -> Flip on the Y-axis
