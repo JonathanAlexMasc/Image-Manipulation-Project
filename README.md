@@ -13,6 +13,8 @@ More than one operation from the above can be performed on an image. Image files
 
 Flipping on the X-axis
 
-![low](https://user-images.githubusercontent.com/94260151/189504431-71f4309f-9160-43bd-87d5-5b64b8b2da46.jpg) -> 
+![low](https://user-images.githubusercontent.com/94260151/189504431-71f4309f-9160-43bd-87d5-5b64b8b2da46.jpg) 
 
 
+
+![houseFlipX](https://user-images.githubusercontent.com/94260151/189504504-e116224a-207c-4860-8435-6fb885a27441.jpg)
